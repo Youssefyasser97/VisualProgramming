@@ -1,6 +1,7 @@
 # VisualProgramming
 Website for simplified database operations (Create, update, etc..) that is visually simple for people with no coding background
 
+The website is live at: https://ydawood.com/vp
 
 This project aims to get students or people with zero or little background on coding and databases familiar with database operations. It simplifies the syntax and visualizes the results so that the user understands what each operation does.
 
@@ -13,5 +14,3 @@ To run the website:
 6. Now go to URL "localhost/vp"
 
 And start your database manipulation operations.
-
-You can also check the deployed version at (www.ydawood.com/vp)
